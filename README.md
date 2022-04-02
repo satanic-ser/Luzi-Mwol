@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://replit.com/@Afx-Abu/Luzi-Mwol?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://replit.com/@satanic-ser/Luzi-Mwol?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 
 <a href="https://bit.ly/Luzi-Mwol"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
